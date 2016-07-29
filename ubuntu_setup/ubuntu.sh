@@ -89,3 +89,4 @@ sudo apt-get install xclip -y
 
 # install git-extra
 sudo apt-get install git-extras -y
+sudo apt-get install clang-format -y
